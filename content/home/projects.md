@@ -42,9 +42,9 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     name = "Data Viz"
     tag = "Data Visualization"
     
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
+#  [[content.filter_button]]
+#    name = "Other"
+#    tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
