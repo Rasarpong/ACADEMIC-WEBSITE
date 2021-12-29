@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-09-01"
   date_end = ""
-  description = "The purpose of the Provost’s Distinguished Fellowship/Scholarship program is to support programs in the recruitment of OSU’s most meritorious graduate students."
+  description = "The purpose of the Provost’s Distinguished Scholarship program is to support programs in the recruitment of OSU’s most meritorious graduate students."
 
 [[item]]
   organization = "Sigma Xi (SDSU Chapter)"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-06-08"
   date_end = ""
-  description = "2nd place, Masters proposa category. The scientific research society, Sigma Xi, is an honorary organization to encourage original investigations in pure and applied sciences."
+  description = "2nd place, Masters proposal category. The scientific research society, Sigma Xi, is an honorary organization to encourage original investigations in pure and applied sciences."
   
 [[item]]
   organization = "University of North Dakota"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-04-08"
   date_end = ""
-  description = "apply big-data analytical techniques to tease out public-health insights from a dataset that contained roughly 100 variables from the National Health and Nutrition Examination Survey. Organized by the UND Biology Club, UND’s Dakota Cancer Collaborative on Translational Activity, DaCCoTA, and Sanford"
+  description = "Applied big-data analytical techniques to tease out public-health insights from from the National Health and Nutrition Examination Survey. Organized by the UND Biology Club, UND’s Dakota Cancer Collaborative on Translational Activity, DaCCoTA, and Sanford"
   
 [[item]]
   organization = "South Dakota State University"
@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1R5OMNAwxle9rx4XphffL_Q_v19TkvBUw/view?usp=sharing"
   date_start = "2020-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "A professional development opportunity centered around seven core competencies: Communication, Teaching, Wellness, Research, Career Development, Leadership, and Diversity and Advocacy."
 
 +++
