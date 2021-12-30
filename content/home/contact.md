@@ -6,10 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "**Contact**"
-subtitle = "Get in Touch"
+subtitle = "Get in Touch with Me"
 
 # Automatically link email and phone?
 autolink = true
+
 
 
 # Email form provider
@@ -18,15 +19,12 @@ autolink = true
 #   2: formspree.io
 #email_form = 1
 
-
-
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-#  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "center"  # Choose `center`, `left`, or `right`.
   # Background color.
   color = "#fff"
 +++

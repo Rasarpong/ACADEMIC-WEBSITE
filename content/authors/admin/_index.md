@@ -9,18 +9,18 @@ bio: My research interests include Behavioral, Environmental and Resource Econom
 btn:
 - label: Download Resume
   url: https://drive.google.com/file/d/1DGRbGd11rNmj2v3NrSbWSYFeOS6ueF-m/view?usp=sharing 
-display_education: false
+display_education: true
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Economics
+    institution: Oregon State University
+    year: 2026
+  - course: MSc. Data Science
+    institution: South Dakota State University
+    year: 2021
+  - course: MSc. Economics
+    institution: South Dakota State University
+    year: 2021
     
     
 email: "acquahsr@oregonstate.edu"
@@ -65,6 +65,9 @@ user_groups:
 
 I am a PhD student in Applied Economics at the department of Applied Economics at Oregon State University. My areas of research include **Environmental and resource Economics, Health Economics and Behavioral Economics** 
 
-I apply data-science and econometric methods to explore topics related to sustainable energy investments and transition, natural resource management, Health care access and evaluation, and .....
+I apply data-science and econometric methods to explore topics related to sustainable energy investments and transition, natural resource management, Health care access and evaluation, and
+
+I apply data-science and econometric methods to explore topics related to sustainable energy investments and transition, natural resource management, Health care access and evaluation, and
+.....
 
 
