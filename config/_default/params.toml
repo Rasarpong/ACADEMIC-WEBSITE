@@ -69,7 +69,7 @@ address = "SW Campus Way,  Ballard Extension Hall,320, OSU, Corvallis, OR"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/AcquahSarpong"},
   {icon = "facebook", icon_pack = "fab", name = "Skype Me", link = "https://www.facebook.com/RAS.ACQUAH"},
-  {icon = "whatsapp", icon_pack = "fab", name = "whatsapp", link = "https://keybase.io/"},
+  {icon = "whatsapp", icon_pack = "fab", name = "whatsapp", link = "https://web.whatsapp.com/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
