@@ -6,12 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "**Contact**"
-subtitle = "Connect with me"
+subtitle = "Get in Touch"
 
 # Automatically link email and phone?
 autolink = true
 
-[experience]
 
 # Email form provider
 #   0: Disable email form

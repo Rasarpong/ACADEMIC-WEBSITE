@@ -54,9 +54,9 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "acquahsr@oregonstate.edu"
-phone = " +1 (605) 592 5293"
-address = "SW Campus Way,  Ballard Extension Hall, 320, OSU, USA"
-
+#phone = " +1 (605) 592 5293"
+twitter = "https://twitter.com/AcquahSarpong"
+address = "SW Campus Way,  Ballard Extension Hall, 320, OSU, Corvallis, Oregon"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Mon 9:00 to 13:00<br>
 #                  Wednesday 09:00 to 10:00"""
