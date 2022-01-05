@@ -1,6 +1,6 @@
 ---
 date: "2021-12-29T00:00:00Z"
-external_link: https://rpubs.com/Richie222/853087
+external_link: https://rpubs.com/Richie222/853114
 image:
   caption: 
   focal_point: Smart
