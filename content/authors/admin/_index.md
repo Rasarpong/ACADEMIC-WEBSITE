@@ -28,9 +28,10 @@ email: "acquahsr@oregonstate.edu"
 
 interests:
 - Behavioral Economics
-- Resource Economics
+- Energy Economics
 - Machine Learning
 - Predictive Analytics
+- Data Visualization
 
 name: Richard Acquah-Sarpong
 
@@ -63,11 +64,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Applied Economics at the department of Applied Economics at Oregon State University. My areas of research include **Environmental and resource Economics, Health Economics and Behavioral Economics** 
+I am a PhD student in Applied Economics at the department of Applied Economics at Oregon State University. I am interested in solving economic problems by combining economic tools with data science techniques.
+My areas of research include **Energy Economics, Health Economics and Behavioral Economics** 
 
-I apply data-science and econometric methods to explore topics related to sustainable energy investments and transition, natural resource management, Health care access and evaluation, and
-
-I apply data-science and econometric methods to explore topics related to sustainable energy investments and transition, natural resource management, Health care access and evaluation, and
-.....
+I am a data science enthusiast. I use analytics, predictive modeling, and statistical machine-learning (ML) to derive patterns and insights that can inform economic decisions. I am able to collect, manipulate, and examine data to identify, explain, and forecast potential problems and complex relationships by analyzing and building statistical models from data.
 
 

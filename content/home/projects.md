@@ -25,15 +25,15 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
 #  [[content.filter_button]]
 #    name = "All"
 #    tag = "*"
-  
+#  
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
   
-  [[content.filter_button]]
-    name = "Economics"
-    tag = "Economics"
-  
+#  [[content.filter_button]]
+#    name = "Economics"
+#    tag = "Economics"
+#  
   [[content.filter_button]]
     name = "Predictive Analytics"
     tag = "Predictive Analytics"

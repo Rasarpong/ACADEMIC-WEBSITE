@@ -6,7 +6,6 @@ image:
   focal_point: Smart
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
-- Data Science
 - Predictive Analytics
 title: Predictive Analytics
 ---
