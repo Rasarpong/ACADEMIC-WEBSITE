@@ -8,7 +8,7 @@ bio: My research interests include Behavioral, Environmental and Resource Econom
 
 btn:
 - label: Download Resume
-  url: https://drive.google.com/file/d/17x1hBAWBEVqtQxofssKIm4-xGZ36t1XL/view?usp=sharing
+  url: https://drive.google.com/file/d/1hnxtnrWUfBwhrO_q2vOqO4lWEnH90XJW/view?usp=sharing
 display_education: true
 education:
   courses:
