@@ -29,10 +29,10 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 #  parcent = "70%"
   
 
-[[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
+#[[feature]]
+#  icon = "searchengin"
+#  icon_pack = "fab"
+#  name = "Research"
 #  parcent = "95%"
 
   
@@ -48,10 +48,10 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Data Analysis"
 #  parcent = "70%"
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
 #  parcent = "70%"
 
 +++
