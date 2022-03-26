@@ -35,8 +35,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  * Intro to Ag and Food Economics (AEC 251)
   * Intermediate Applied Economics I (AEC 311)
+  * Intro to Environmental Economics and Policy (AEC 250)
+  * Intro to Ag and Food Economics (AEC 251)
 
   """
 

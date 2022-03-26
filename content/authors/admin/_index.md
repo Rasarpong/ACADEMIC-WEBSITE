@@ -64,8 +64,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Applied Economics at the department of Applied Economics at Oregon State University. I am interested in solving economic problems by combining economic tools with data science techniques.
-My areas of research include **Energy Economics, Health Economics and Behavioral Economics** 
+I am a PhD student in Applied Economics at the department of Applied Economics at Oregon State University. I am interested in solving economic problems by combining economic theory and tools with data science techniques.
+My research interests include **Resource and Environmental Economics, Development Economics and Health Economics** 
 
 I am a data science enthusiast. I use analytics, predictive modeling, and statistical machine-learning (ML) to derive patterns and insights that can inform economic decisions. I am able to collect, manipulate, and examine data to identify, explain, and forecast potential problems and complex relationships by analyzing and building statistical models from data.
 
