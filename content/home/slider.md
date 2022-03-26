@@ -10,19 +10,19 @@ weight = 1  # Order that this section will appear.
 interval = 5000
 
 # Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "600px"
+# E.g. `300px` for 500 pixels or `calc(100vh - 70px)` for full screen.
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
   content = "I am glad you are here. Nice to meet you :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#dbc4bd"  # An HTML color value.
+  overlay_color = "#D0D3D4"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -37,7 +37,7 @@ height = "600px"
 [[item]]
   title = "Hi"
   content = "Please get in touch. I will be glad to know you more :smile:"
-  align = "center"
+  align = "left"
 
   overlay_color = "#d9c3bd"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.

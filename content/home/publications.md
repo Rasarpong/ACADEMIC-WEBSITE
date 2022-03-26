@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "**Recent Publications**"
-subtitle = "Some publications i have recently published"
+title = "**Recent Writing**"
+subtitle = "Some writing i have worked on or currently working on"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
