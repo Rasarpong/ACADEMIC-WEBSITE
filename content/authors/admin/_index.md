@@ -27,11 +27,11 @@ email: "acquahsr@oregonstate.edu"
 
 
 interests:
-- Behavioral Economics
+- Environmental Economics
 - Energy Economics
+- Health Economics
+- Applied Econometrics
 - Machine Learning
-- Predictive Analytics
-- Data Visualization
 
 name: Richard Acquah-Sarpong
 
